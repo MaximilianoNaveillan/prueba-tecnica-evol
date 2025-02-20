@@ -32,7 +32,7 @@ Antes de empezar, asegúrate de tener instalados los siguientes programas:
    Clona este repositorio en tu máquina local:
 
    ```sh
-   git clone https://github.com/tu-usuario/task.git
+   git clone https://github.com/MaximilianoNaveillan/prueba-tecnica-evol/tree/main
    cd task
    ```
 
